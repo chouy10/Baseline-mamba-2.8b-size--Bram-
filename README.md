@@ -5,4 +5,8 @@ This version resolves the issue of excessive BRAM usage, but the LUT utilization
 The design passes synthesis, but the LUT utilization is too high and still needs optimization:
 <img width="959" height="187" alt="image" src="https://github.com/user-attachments/assets/051eeecd-df91-4b4a-b591-7a8db2db73a3" />
 
+The design passes co-simulation, and the latency is shown below, the latency increases:
+<img width="979" height="221" alt="image" src="https://github.com/user-attachments/assets/08c69607-3de5-4916-8587-b32633a028bf" />
+
+
 
